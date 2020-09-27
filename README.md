@@ -9,5 +9,5 @@ Created a  portfolio project on my github account. Created a new repository of t
 # copyright and license information
   This project has been licenced by MIT license board.
 # link to live site on GitHub Pages
-
+https://fridah-alwanga.github.io/PORTFOLIO/
 
